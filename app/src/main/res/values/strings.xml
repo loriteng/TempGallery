@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempGallery</string>
+    <string name="button1">updateButton</string>next_activity
+    <string name="next_activity">next_activity_button</string>
+</resources>
